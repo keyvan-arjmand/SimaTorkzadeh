@@ -1,0 +1,100 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+@section aside
+{
+    <aside class="col-12 col-md-12 col-lg-2">
+        <div class="sidebar box sticky-column">
+            <ul class="nav">
+                <li class="nav__item">
+                    <a  href="@Url.Action("Index", "Home")"><i class="icon-user"></i>About</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Research", "Home")"><i class="icon-codesandbox"></i>Research Projects</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Skill", "Home")"><img src="/Images/logical-thinking.png" width="55px" alt="Skills"/>Skills</a>
+                </li>
+                <li class="nav__item">
+                    <a class="active" href="@Url.Action("Education", "Home")"><img src="/Images/graduation-cap.png" width="55px" alt="Skills"/>Education</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Experience", "Home")"><img src="/Images/experience.png" width="55px" alt="Skills"/>Experience</a>
+                </li>
+            </ul>
+        </div>
+    </aside>
+}
+
+<div class="col-12 col-md-12 col-lg-10">
+<div class="box box-content">
+<div class="pb-2">
+    <h1 class="title title--h1 first-title title__separate"><img class="title-icon" src="/assets/icons/dark/icon-education.svg" alt=""/> Education</h1>
+</div>
+
+<!-- Experience -->
+<div class="row">
+    <div class="col-12">
+uy        <div class="timeline">
+            <!-- Item -->
+            <article class="timeline__item">
+                <h5 class="title title--h5 timeline__title">Azad University OF Qazvin Iran</h5>
+                <span class="timeline__period">2016 — 2023</span>
+                <p class="timeline__description">PhD in financial management. GPA : 17/57</p>
+            </article>
+
+            <!-- Item -->
+            <article class="timeline__item">
+                <h5 class="title title--h5 timeline__title">Azad University OF Qazvin Iran</h5>
+                <span class="timeline__period">2009 — 2011</span>
+                <p class="timeline__description">Master of Business Management Branch: Finance . GPA : 16/44</p>
+            </article>
+
+            <!-- Item -->
+            <article class="timeline__item">
+                <h5 class="title title--h5 timeline__title">Azad University of Abadan Iran</h5>
+                <span class="timeline__period">2007 — 2009</span>
+                <p class="timeline__description">Bachelor of Business Management. GPA : 17/94</p>
+            </article>
+        </div>
+    </div>
+    <div class="box box-content w-100 mb-2  shadow-sm" style="background-color: #F2F2F2">
+        <!-- About -->
+        <div class="pb-0 pb-sm-2">
+            <h1 class="title title--h1 first-title title__separate"><img class="title-icon" src="/Images/world.png" alt=""/>Language</h1>
+            <div class="d-flex justify-content-between w-100">
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">English</span>TOEFL</li>
+                    <li><span class="overhead">Overall</span>101</li>
+                </ul>
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">Writing</span>29</li>
+                    <li><span class="overhead">Listening</span>27</li>
+                </ul>
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">Speaking</span>20</li>
+                    <li><span class="overhead">Reading</span>25</li>
+                </ul>
+            </div>
+        </div>
+        <div class="pb-0 pb-sm-2">
+            <h1 class="title title--h1 first-title title__separate"><img class="title-icon" src="/Images/linguistics.png" alt=""/>General</h1>
+            <div class="d-flex justify-content-between w-100">
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">Quantitative reasoning</span>168</li>
+                    <li><span class="overhead">Verbal reasoning</span>160</li>
+                </ul>
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">Analytical writing</span>5</li>
+                    <li><span class="overhead">Arabic</span>Professional</li>
+                </ul>
+                <ul class="header__contact w-100">
+                    <li><span class="overhead">Persian</span>Native</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>

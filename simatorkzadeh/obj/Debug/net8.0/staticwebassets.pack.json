@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\simatorkzadeh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\simatorkzadeh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\12422776.png",
+      "PackagePath": "staticwebassets\\Images\\12422776.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\1694490204271.jpg",
+      "PackagePath": "staticwebassets\\Images\\1694490204271.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\548a659c2b06a877516d3c998f5b0939.jpg",
+      "PackagePath": "staticwebassets\\Images\\548a659c2b06a877516d3c998f5b0939.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\Financial-Analyst-Courses-800x500.png",
+      "PackagePath": "staticwebassets\\Images\\Financial-Analyst-Courses-800x500.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\certificate.png",
+      "PackagePath": "staticwebassets\\Images\\certificate.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\cryptocurrency.png",
+      "PackagePath": "staticwebassets\\Images\\cryptocurrency.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\data.png",
+      "PackagePath": "staticwebassets\\Images\\data.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\experience.png",
+      "PackagePath": "staticwebassets\\Images\\experience.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\forex-blue-banner-1024x309.jpeg",
+      "PackagePath": "staticwebassets\\Images\\forex-blue-banner-1024x309.jpeg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\forex.png",
+      "PackagePath": "staticwebassets\\Images\\forex.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\graduation-cap.png",
+      "PackagePath": "staticwebassets\\Images\\graduation-cap.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\honors.png",
+      "PackagePath": "staticwebassets\\Images\\honors.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\interface.png",
+      "PackagePath": "staticwebassets\\Images\\interface.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\investing_facts_cover.jpg",
+      "PackagePath": "staticwebassets\\Images\\investing_facts_cover.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\linguistics.png",
+      "PackagePath": "staticwebassets\\Images\\linguistics.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\logical-thinking.png",
+      "PackagePath": "staticwebassets\\Images\\logical-thinking.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\presentation (1).png",
+      "PackagePath": "staticwebassets\\Images\\presentation (1).png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\presentation.png",
+      "PackagePath": "staticwebassets\\Images\\presentation.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\project.png",
+      "PackagePath": "staticwebassets\\Images\\project.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\research-and-development.png",
+      "PackagePath": "staticwebassets\\Images\\research-and-development.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\Images\\world.png",
+      "PackagePath": "staticwebassets\\Images\\world.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\dark-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\demo\\dark-image.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\iconClose.svg",
+      "PackagePath": "staticwebassets\\assets\\demo\\iconClose.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\iconSideMenu.svg",
+      "PackagePath": "staticwebassets\\assets\\demo\\iconSideMenu.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\light-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\demo\\light-image.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\plugins-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\plugins-demo.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\demo\\style-demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\style-demo.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\IRY-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRY-Medium.eot"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\IRY-Medium.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRY-Medium.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\IRY-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRY-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\IRY-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRY-Medium.woff"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\IRY-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRY-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\ISDN.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ISDN.eot"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\ISDN.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ISDN.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\ISDN.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ISDN.ttf"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\ISDN.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ISDN.woff"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\fonts\\ISDN.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ISDN.woff2"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-app.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-app.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-design.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-design.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-dev.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-dev.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-education.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-education.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-experience.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-experience.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\dark\\icon-photo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\dark\\icon-photo.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-angry.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-angry.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-bad.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-bad.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-crazy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-crazy.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-happy-2.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-happy-2.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-happy-3.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-happy-3.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-happy.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-happy.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-in-love.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-in-love.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-laughing.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-laughing.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-nerd.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-nerd.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-pressure.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-pressure.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-sad-2.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-sad-2.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-sad.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-sad.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-shocked-2.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-shocked-2.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-shocked-3.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-shocked-3.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-shocked.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-shocked.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-sweating.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-sweating.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-thinking.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-thinking.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\emoji\\emoji-wink.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\emoji\\emoji-wink.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icomoon.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\icomoon.woff2"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-app.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-app.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-design.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-design.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-dev.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-dev.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-education.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-education.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-experience.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-experience.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-news.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-news.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-photo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-photo.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-quote-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-quote-dark.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\icons\\style.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\style.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\favicons\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\favicons\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\favicons\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\favicons\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\icon-map-pic.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-map-pic.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\social.html",
+      "PackagePath": "staticwebassets\\assets\\images\\social.html"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\triangles-bottom.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\triangles-bottom.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\images\\triangles-top.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\triangles-top.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_01.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_02.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_03.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_04.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_05.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_06.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_07.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_08.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_09.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_10.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_11.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\image_header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\image_header.jpg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-1-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-1-dark.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-1.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-2-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-2-dark.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-2.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-3-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-3-dark.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-3.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-4-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-4-dark.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\logo-4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-4.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\img\\main-photo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-photo.svg"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\js\\common.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\js\\mapbox-gl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mapbox-gl.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\js\\mapbox.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mapbox.init.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\mapbox-gl.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\mapbox-gl.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\style-dark.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\style-dark.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\style-rtl-demo.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\style-rtl-demo.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\style-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\style-rtl.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\style.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\vendors\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\vendors\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\vendors\\rtl\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\vendors\\rtl\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\assets\\styles\\vendors\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\vendors\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Lab\\simatorkzadeh\\simatorkzadeh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.simatorkzadeh.props",
+      "PackagePath": "build\\simatorkzadeh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.simatorkzadeh.props",
+      "PackagePath": "buildMultiTargeting\\simatorkzadeh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.simatorkzadeh.props",
+      "PackagePath": "buildTransitive\\simatorkzadeh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.simatorkzadeh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

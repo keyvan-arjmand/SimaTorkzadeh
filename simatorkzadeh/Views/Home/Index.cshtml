@@ -1,0 +1,145 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* @section Banner *@
+@* { *@
+@*     <div class="header-image"> *@
+@*         <div class="js-parallax img-banner"></div> *@
+@*     </div> *@
+@* } *@
+
+@section aside
+{
+    <aside class="col-12 col-md-12 col-lg-2">
+        <div class="sidebar box sticky-column">
+            <ul class="nav">
+                <li class="nav__item">
+                    <a class="active" href="@Url.Action("Index", "Home")"><i class="icon-user"></i>About</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Research", "Home")"><i class="icon-codesandbox"></i>Research Projects</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Skill", "Home")"><img src="/Images/logical-thinking.png" width="55px" alt="Skills"/>Skills</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Education", "Home")"><img src="/Images/graduation-cap.png" width="55px" alt="Skills"/>Education</a>
+                </li>
+                <li class="nav__item">
+                    <a href="@Url.Action("Experience", "Home")"><img src="/Images/experience.png" width="55px" alt="Skills"/>Experience</a>
+                </li>
+            </ul>
+        </div>
+    </aside>
+}
+
+@section Profile
+{
+    <header class="header box">
+        <div class="header__left">
+            <div class="header__photo">
+                <img class="header__photo-img" src="/Images/548a659c2b06a877516d3c998f5b0939.jpg" alt="khadijeh Eidantorkzadeh">
+            </div>
+            <div class="header__base-info">
+                <h4 class="title titl--h4">khadijeh Eidantorkzadeh</h4>
+                @* <ul class="header__social"> *@
+                @*     <li> *@
+                @*         <a href="https://www.facebook.com/"> *@
+                @*             <i class="font-icon icon-facebook1"></i> *@
+                @*         </a> *@
+                @*     </li> *@
+                @*     <li> *@
+                @*         <a href="https://www.twitter.com/"> *@
+                @*             <i class="font-icon icon-twitter1"></i> *@
+                @*         </a> *@
+                @*     </li> *@
+                @*     <li> *@
+                @*         <a href="https://www.instagram.com/"> *@
+                @*             <i class="font-icon icon-instagram1"></i> *@
+                @*         </a> *@
+                @*     </li> *@
+                @* </ul> *@
+            </div>
+        </div>
+        <div class="header__right">
+            <ul class="header__contact">
+                <li><span class="overhead">Email</span>Eidantorkzadeh.khadijeh@gmail.com</li>
+                <li><span class="overhead">Phone</span>(+98)9120661521</li>
+            </ul>
+            <ul class="header__contact">
+                <li><span class="overhead">Location</span>Tehran, Iran</li>
+            </ul>
+        </div>
+    </header>
+
+}
+
+<div class="col-12 col-md-12 col-lg-10">
+    <div class="box box-content">
+        <!-- About -->
+        <div class="pb-0 pb-sm-2">
+            <h1 class="title title--h1 first-title title__separate">About Me</h1>
+            <p>
+                Financial analyst and investment evaluation of
+                the justification plan of Startup companies in
+                growth and technology centers and arbitration
+                of some plans.
+            </p>
+            <p>
+                analyst, and consultant in
+                domestic financial markets, forex,
+                cryptocurrency, and MetaVerse.
+            </p>
+        </div>
+
+        <!-- What -->
+        <div class="mt-1">
+            <h2 class="title title--h3">What I'm Doing</h2>
+            <div class="row">
+                <!-- Case Item -->
+                <div class="col-12 col-lg-6">
+                    <div class="case-item">
+                        <img class="case-item__icon" src="/Images/data.png" alt=""/>
+                        <div>
+                            <h3 class="title title--h4">Financial Analyst</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case Item -->
+                <div class="col-12 col-lg-6">
+                    <div class="case-item">
+                        <img class="case-item__icon" src="/Images/forex.png" alt=""/>
+                        <div>
+                            <h3 class="title title--h4">Forex market</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case Item -->
+                <div class="col-12 col-lg-6">
+                    <div class="case-item">
+                        <img class="case-item__icon" src="/Images/cryptocurrency.png" alt=""/>
+                        <div>
+                            <h3 class="title title--h4">Crypto Currency</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case Item -->
+                <div class="col-12 col-lg-6">
+                    <div class="case-item">
+                        <img class="case-item__icon" src="/Images/interface.png" alt=""/>
+                        <div>
+                            <h3 class="title title--h4">MetaVerse</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
